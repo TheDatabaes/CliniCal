@@ -5,5 +5,19 @@ Clini.Cal is a healthcare scheduling platform that simplifies the process of boo
 
 
 ## Getting Started
+**Login**
+<img width="1250" alt="Screenshot 2023-11-05 at 10 20 38 AM" src="https://github.com/TheDatabaes/CliniCal/assets/115907177/a6201687-e801-41bd-a146-51c82babacba">
+
+**If you don't have an account yet,register :)**
+<img width="1052" alt="Screenshot 2023-11-05 at 10 20 45 AM" src="https://github.com/TheDatabaes/CliniCal/assets/115907177/eff4c7d2-695c-4d31-89f4-81663482ac45">
+
+
+**Home Page**
+<img width="1317" alt="Screenshot 2023-11-05 at 10 29 27 AM" src="https://github.com/TheDatabaes/CliniCal/assets/115907177/8142c1b4-c756-4457-9e7d-d5bd4fd2ef47">
+
+
+**Ask Questions in our Chat Box**
+<img width="1311" alt="Screenshot 2023-11-05 at 10 29 39 AM" src="https://github.com/TheDatabaes/CliniCal/assets/115907177/d2dcc2f6-0576-4113-bc3d-5752eff553a0">
+
 
 
